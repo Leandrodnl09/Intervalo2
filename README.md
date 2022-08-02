@@ -4,8 +4,8 @@
 
 O projeto foi criado para exercitar a programação em C# (.NET) e estudar sobre a função de repetição do C#; 
 
-Aqui também você vai observar que o usuário via digitar dois numeros inteiro "N" para saber a qunatidade de numeros que sera digitado.
-E "X" para digitar os numeros inteiros, em seguida o programa mostrará quais desses números estará dentro do intervalo de (10,20) e quantos estaram fora;
+Aqui também você vai observar que o usuário via digitar um número inteiro "N" para saber a quantidade de números que seram digitados.
+E "X" seram os numeros inteiros, em seguida o programa mostrará quais desses números estarão dentro do intervalo de (10,20) e quantos estarão fora;
 
 Programa muito bacana pra aprender (for) e (If);
 
